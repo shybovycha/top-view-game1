@@ -1,0 +1,21 @@
+{
+  "name": "top-view-game1",
+  "authors": [
+    "Artem Szubowicz <shybovycha@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.4.4"
+  }
+}
